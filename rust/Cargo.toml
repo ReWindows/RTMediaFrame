@@ -1,0 +1,8 @@
+[package]
+name = "rtmediaframe-sys"
+version = "0.1.0"
+edition = "2021"
+description = "Windissect-generated Rust FFI bindings for RTMediaFrame.dll. Windows only."
+license = "MIT"
+
+[dependencies]

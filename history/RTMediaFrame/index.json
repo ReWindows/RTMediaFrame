@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "RTMediaFrame.dll",
+  "latest": "2240002584-C2575B0256F393C3262ECD8B288877D7-1",
+  "builds": [
+    {
+      "key": "2240002584-C2575B0256F393C3262ECD8B288877D7-1",
+      "timestamp": "2240002584",
+      "pdb_guid": "C2575B0256F393C3262ECD8B288877D7",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2240002584-C2575B0256F393C3262ECD8B288877D7-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
